@@ -1,2 +1,2 @@
 # 509_data2
-Identifying Outward vs Inward Alfvénic Fluctuations and Computing Elsässer Energies from Parker Solar Probe Encounter 22
+A Python Module for Computing Residual Energy in Solar Wind Turbulence from Parker Solar Probe Encounter 22
